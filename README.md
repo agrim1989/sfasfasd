@@ -1,18 +1,59 @@
-# 💫 About Me:
-I'm ad  experienced Python architect who builds and scales production systems.<br>I have  hands-on experience with microservices, distributed systems, cloud platforms and GenAI.<br>I'm  continuously improving your expertise in software architecture, system design and advanced Python engineering.
+# Hi, I'm Agrim Sharma 👋
 
+### Lead Python Architect | Engineering Lead | Backend & AI Systems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agrim-sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrim89@gmail.com) 
+I'm a technology professional with **15+ years of experience in software engineering**, specializing in Python backend development, solution architecture, distributed systems and scalable enterprise applications.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=agrim1989&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=agrim1989&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=agrim1989&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently working as a **Software Engineering Manager / Python Architect at Capgemini**, contributing to the architecture and development of scalable backend platforms and AI-powered solutions.
 
----
-[![](https://komarev.com/ghpvc/?username=agrim1989&icon=0&color=0)](https://visitcount.itsvg.in)
+My experience includes designing microservices, building high-performance REST APIs, optimizing database performance, developing asynchronous processing pipelines, and deploying production-grade AI/ML applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I enjoy solving complex engineering problems, designing scalable systems, mentoring engineers and translating business requirements into reliable technical solutions.
+
+### 🔭 What I'm Working On
+- Architecting scalable Python-based backend applications and microservices.
+- Working on AI-powered surgical video analysis platforms.
+- Building and improving RAG-based applications and multi-agent AI workflows.
+- Exploring Model Context Protocol (MCP) servers and AI-assisted developer tools.
+- Improving system reliability, performance, scalability and cloud infrastructure.
+
+### 🌱 What I'm Currently Learning
+- Software Architecture and Advanced System Design.
+- SOLID principles, design patterns and architectural patterns.
+- Intermediate and Advanced Python.
+- Advanced FastAPI and asynchronous programming.
+- SQL, NoSQL and database architecture.
+- Distributed systems, scalability, high availability and fault tolerance.
+- Production-ready backend engineering practices.
+
+### 💻 Technical Skills
+
+**Languages:** Python, SQL, Shell Scripting
+
+**Backend:** Django, Django REST Framework, Flask, FastAPI, SQLAlchemy, Celery
+
+**Architecture:** Microservices, Distributed Systems, Event-Driven Architecture, REST APIs, System Design
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+
+**Messaging:** Apache Kafka, Celery
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+
+**AI & GenAI:** LangChain, RAG, LLMs, Multi-Agent Systems, MCP, Hugging Face, FAISS, ChromaDB, Pinecone
+
+### 🚀 Areas of Interest
+- Solution Architecture
+- Scalable Backend Systems
+- Distributed Systems
+- AI Agents and RAG Applications
+- Cloud-Native Architecture
+- Performance Engineering
+- Engineering Leadership
+
+### 🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/agrim-sharma/
+- GitHub: https://github.com/agrim1989
+
+Always interested in discussing software architecture, Python engineering, distributed systems and practical applications of AI.
